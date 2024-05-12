@@ -1,0 +1,5 @@
+1. Best fit that I found for daily btc/usd is Kernel Density Estimation (KDE)
+due to majority distribution that being tested is represent higher kurtosis than expected, thus kernel density estimation
+had the closest among the tested distributions
+
+2. Daily ethereum is tested not normal on shapiro-wilk due to very low p-value (p-value < 0.05) assuming the the degrees of freedom is 5%
